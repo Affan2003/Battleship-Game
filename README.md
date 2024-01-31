@@ -4,7 +4,9 @@
 A console-based battleship game using basic programming concepts in C++. Battleship is a classic two-player strategy game where each player arranges their fleet of ships on a grid and takes turns guessing the coordinates to sink the opponent's hidden ships. The first player to sink all of the opponent's ships wins.
 
 ## Tools:
-Visual studio or DevC++
+1. ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+2. ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+3. ![Dev C++](https://img.shields.io/badge/Dev_C++-474787?style=for-the-badge&logo=devcpp&logoColor=white)
 
 ## Instructions:
 
